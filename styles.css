@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+/* Se logra centrar un objeto en el medio */
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: #0C192C;
+}
+
+#ether{
+   width: 300px;
+   border-radius: 16px;
+}
+
+main{
+   width: 300px;
+   padding: 12px;
+   border-radius: 16px;
+   background-color: #15273F;
+}
+
+h1{
+   color: #fff;
+}
+
+footer{
+   display: flex;
+   border-top: 1px solid #fff;
+   align-items: center;
+}
+
+#avatar{
+   width: 50px;
+}
