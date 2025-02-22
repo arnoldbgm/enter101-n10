@@ -11,3 +11,11 @@ Ver que archivos se modificaron o cambiaron
 ```
 git status
 ```
+
+## Flujo del ACP
+
+````
+git add .
+git commit -m "Este es un comentario"
+git push -u origin [RAMA]
+```
