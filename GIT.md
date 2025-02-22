@@ -12,7 +12,6 @@ Ver que archivos se modificaron o cambiaron
 git status
 ```
 
-## Flujo del ACP
 
 ````
 git add .
